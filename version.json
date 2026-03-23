@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "release_date": "2026-03-19",
-  "download_url": "https://github.com/samnangnong1123/AI-MOVIE-TOOL---NONG-SAMNANG/releases/download/v1.0.4/AI_MOVIE_TOOL.exe",
+  "download_url": "https://github.com/samnangnong1123/AI-MOVIE-TOOL---NONG-SAMNANG/releases/download/v1.0.5/AI_MOVIE_TOOL.v1.0.5.exe",
   "changelog": [
     "In-app GitHub updater added",
     "Auto download progress and restart flow",
